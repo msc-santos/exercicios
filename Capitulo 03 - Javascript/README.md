@@ -45,3 +45,8 @@ Mais detalhes nos links a baixo:
 - https://medium.com/@allansendagi/javascript-fundamentals-call-stack-and-memory-heap-401eb8713204
 - https://www.mattzeunert.com/2017/03/29/v8-object-size.html
 - https://developer.mozilla.org/en-US/docs/Glossary/Primitive
+
+# 3 - Valor vs. Referência
+
+- Detalhes no link: https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0
+- Explicação também na pasta "ref-vs-valor"
