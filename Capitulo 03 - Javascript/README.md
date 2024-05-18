@@ -50,3 +50,11 @@ Mais detalhes nos links a baixo:
 
 - Detalhes no link: https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0
 - Explicação também na pasta "ref-vs-valor"
+
+# 4 Coersão de tipos
+
+- Exemplos na pasta type-coercion, resumo evite sempre usar o "==" busque sempre usar o "==="
+
+# Herança - Prototype Chain
+
+- Exemplos na pasta prototype-chaining
