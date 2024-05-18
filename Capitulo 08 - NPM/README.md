@@ -17,3 +17,7 @@ OBS: o comando "npm update" não altualiza versões major em nossos projetos, po
 
 [https://snyk.io/pt-BR/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/](Melhorando a segurança das aplicações olhando para o package-lock.json)
 [https://github.com/lirantal/lockfile-lint](para segurança de lockfiles) -> package-lock.json ou yarn-lock.json
+
+[https://www.youtube.com/watch?v=mVgUs7VHqBg](Verdaccio)
+[https://www.npmjs.com/package/verdaccio](NPM_Verdacio)
+[https://docs.github.com/en/packages/quickstart](Start_package_with_github)
