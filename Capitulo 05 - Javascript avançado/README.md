@@ -27,3 +27,10 @@ Links úteis para estudar:
 - Usando o Map tem que tomar cuidado com o vazemnto de memória, mesmo assim ele ainda é uma opção
   melhor ao object literal
 - Exemplos estão na pasta map-e-weakmap
+
+# Set e WeakSet
+
+- É uma estrutura de dados onde não se repete os valores
+- Lembrete: Não é possível usar ".map" ou ".filter" em Maps mas podemos convertelos para usar essas funções
+- O WeakSet tem menos funções que o Set
+- Exemplos estão na pasta aula04-set-e-weakset
