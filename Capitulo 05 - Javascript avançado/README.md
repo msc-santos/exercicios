@@ -18,3 +18,12 @@ Links úteis para estudar:
 
 - https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/
 - https://blog.risingstack.com/async-iterators-in-node-js/
+
+# Map e WeakMap
+
+- É uma estrutura de dados melhorada em relação ao Object literal
+- Lembrete: Não é possível usar ".map" ou ".filter" em Maps mas podemos convertelos para usar essas funções
+- O WeakMap tem menos funções que o Map
+- Usando o Map tem que tomar cuidado com o vazemnto de memória, mesmo assim ele ainda é uma opção
+  melhor ao object literal
+- Exemplos estão na pasta map-e-weakmap
