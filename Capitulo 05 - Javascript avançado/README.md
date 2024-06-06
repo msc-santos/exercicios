@@ -34,3 +34,8 @@ Links úteis para estudar:
 - Lembrete: Não é possível usar ".map" ou ".filter" em Maps mas podemos convertelos para usar essas funções
 - O WeakSet tem menos funções que o Set
 - Exemplos estão na pasta aula04-set-e-weakset
+
+# Reflect
+
+- O Reflect objeto namespace contém métodos estáticos para invocar métodos internos de objetos JavaScript interceptáveis
+- Exemplos estão na pasta aula05-reflect
