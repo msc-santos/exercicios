@@ -39,3 +39,8 @@ Links úteis para estudar:
 
 - O Reflect objeto namespace contém métodos estáticos para invocar métodos internos de objetos JavaScript interceptáveis
 - Exemplos estão na pasta aula05-reflect
+
+# Proxy
+
+- Exemplos estão na pasta aula06-proxy
+- Link útil para estudar: https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/
