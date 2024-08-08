@@ -4,6 +4,6 @@ export default class Product {
     this.name = name;
     this.price = price;
     this.tempProperty = tempProperty;
-    this.activePromoId = activePromoId;
+    this.activePromoId = activePromoId ?? 0;
   }
 }
